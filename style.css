@@ -29,8 +29,9 @@
 
 .cloud1 {
     top: 25%;
+    height: 200px;
     left: 500px;
-    transform: translateY(-300%);
+    transform: translateY(-100%);
     animation: clouds 10s ease infinite;
 }
 
